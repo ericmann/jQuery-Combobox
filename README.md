@@ -1,4 +1,5 @@
-# jQuery UI Combobox 1.0.0
+jQuery UI Combobox 1.0.0
+=========================
  
  Copyright 2011, Eric Mann and Jumping Duck Media (http://jumping-duck.com)
  Dual licensed under the MIT or GPL Version 2 (or later) licenses.
@@ -16,7 +17,8 @@
  
  Users can then either select a field from the underlying dropdown or input text directly.  The element will attempt to automatically match the user's input with one of the select's options.  If no appropriate option is found, the user can leave their manually entered text.
  
- ## Example use:
+ Example use:
+ -----------------
  
  ```
  <select id="combobox">
