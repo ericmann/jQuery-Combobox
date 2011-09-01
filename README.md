@@ -18,7 +18,7 @@ jQuery UI Combobox 1.0.0
  Users can then either select a field from the underlying dropdown or input text directly.  The element will attempt to automatically match the user's input with one of the select's options.  If no appropriate option is found, the user can leave their manually entered text.
  
  Example use:
- =======================
+ -------------------------
  
  ```
  <select id="combobox">
